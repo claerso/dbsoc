@@ -1,5 +1,12 @@
 #!/bin/bash
 
+# SEGUNDA VERSIÓN DEL SCRIPT
+# Esta es la segunda versión del Script para Mysql.
+# Mejoras:
+# Genera los directorios
+# Genera archivos de Logs
+# Borra por seguridad el archivo arrays.file
+
 
 declare -a array1
 declare -a counts
